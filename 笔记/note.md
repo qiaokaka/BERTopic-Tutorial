@@ -163,9 +163,9 @@
 
 2. 安装依赖
 
-`pip install torch==2.0.1 transformers==4.29.1 tqdm==4.65.0 numpy==1.23.2 jieba==0.42.1 bertopic==0.15.0`
+`pip install torch==2.4.0 transformers==4.29.1 tqdm==4.65.0 numpy==1.23.2 jieba==0.42.1 bertopic==0.15.0`
 
-如果安装出错，可以先尝试**重复运行该安装命令**
+如果安装出错，可以先尝试**重复运行该安装命令** 注意：高版本的python比如3.12会报错，尽量安装稳定版本的，如前
 
 ## （四）安装：编辑器（vscode）
 
